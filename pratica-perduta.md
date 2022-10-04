@@ -40,3 +40,8 @@ L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca f
 		- Ripongo tutti i fogli nella pratica
         - Chiudo la pratica 
         - Archivio la cartella con i file salvati
+		- Spengo il computer
+		- Spengo lo scanner
+		- Mi alzo
+		- Mi dirigo all'archivio fisico dell'ufficio
+		- Ripongo la pratica cartacea al suo posto
