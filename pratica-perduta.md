@@ -11,8 +11,8 @@ L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca f
 - Creo la cartella per i file
 - Prendo la pratica 
 - Apro la pratica​
-- Prendo un foglio da dentro la pratica
-    SE il foglio è da scansionare
+	SE ci sono fogli dentro la pratica
+		- Prendo un foglio da dentro la pratica
         - Apro lo scanner
         - Inserisco il foglio​
         - Chiudo lo scanner
@@ -29,13 +29,12 @@ L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca f
             		     - Apro lo scanner
             		     - Prelevo il foglio dallo scanner
             		     - Ripongo il foglio in una pila a parte
-						 - Torno al punto "Prendo un foglio da dentro la pratica"
+						 - Torno al punto "SE ci sono fogli dentro la pratica"
             		 ALTRIMENTI
             		 - Ripeto la scansione finchè viene dritta                    
             ALTRIMENTI 
                 - Ripeto la scansione finchè viene dritta​
     ALTRIMENTI 
-        - Ripongo il foglio in una pila a parte
 		- Recupero tutti i fogli dalla pila a parte
 		- Ripongo tutti i fogli nella pratica
         - Chiudo la pratica 
