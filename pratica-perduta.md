@@ -24,13 +24,13 @@ L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca f
                 - Chiudo lo scanner
                 - Schiaccio il tasto per la funzione scan
                 - Visualizzo la scanasione sul monitor                
-            		 SE la scansione è venuta leggibile e dritta
-            		     - Salvo il file nella cartella
-            		     - Apro lo scanner
-            		     - Prelevo il foglio dallo scanner
-            		     - Ripongo il foglio in una pila a parte
-						 - Torno al punto "SE ci sono fogli dentro la pratica"
-            		 ALTRIMENTI
+            		SE la scansione è venuta leggibile e dritta
+            		    - Salvo il file nella cartella
+            		    - Apro lo scanner
+            		    - Prelevo il foglio dallo scanner
+            		    - Ripongo il foglio in una pila a parte
+						- Torno al punto "SE ci sono fogli dentro la pratica"
+            		ALTRIMENTI
             		 - Ripeto la scansione finchè viene dritta                    
             ALTRIMENTI 
                 - Ripeto la scansione finchè viene dritta​
